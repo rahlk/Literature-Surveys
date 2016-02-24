@@ -1,6 +1,7 @@
 ## A New Family of Software Anti-Patterns: Linguistic Anti-Patterns
 
 ```
+Authors: Venera Arnaoudova; Massimiliano Di Penta; Giuliano Antoniol; Yann-Gaël Guéhénéuc
 Year: 2013
 Conf: European Conference on Software Maintenance and Reengineering
 Cites: 10 (This is max. I found)
