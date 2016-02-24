@@ -21,6 +21,6 @@ This paper introduces the definition of software linguistic antipatterns, and de
 analysis using the Stanford natural language parser. This allows them to: (i) identify whether a term is a noun, an adjective, an adverb or other parts-of-speech; (ii) distinguish singular from plural nouns; and (iii) identify dependencies between words, e.g., between subjects and predicates, as well as negative forms, e.g., not possible.
 3. **Relating terms occurring in source code and comments:** The last part of the analysis aims at relating terms appearing in various source code elements and comments. (We can use LDA)
 
-#### Baseline results
+## Baseline results
 
 ![image](https://cloud.githubusercontent.com/assets/1433964/13294248/181263fa-daf1-11e5-9896-fc21a1ae2838.png)
