@@ -22,3 +22,6 @@
 
 #### 2. DPRAR
 ![image](https://cloud.githubusercontent.com/assets/1433964/13813601/caceaf68-eb58-11e5-8112-4e941c2beed6.png)
+
+# Proposed Framework
+![new doc 3](https://cloud.githubusercontent.com/assets/1433964/13814006/ec0a0b1c-eb5a-11e5-9d5f-66c6b4e86f8d.jpg)
