@@ -20,6 +20,7 @@
 # Challenges:
  - Finding supports, see #4 below for a solution.
  - Baselining against other State-of-the-art methods. See #3 below.
+ - Understanding global constrains for transfer learning. Use Inductive process modelling to derive constrains. [Paper](https://scholar.google.com/scholar_url?url=http://citeseerx.ist.psu.edu/viewdoc/download%3Fdoi%3D10.1.1.296.248%26rep%3Drep1%26type%3Dpdf&hl=en&sa=T&oi=gsb-ggp&ct=res&cd=0&ei=TmTpVuv7NcmCmQHUia3oCg&scisig=AAGBfm2r5855c07VJ_TX-WexVxvheMguAw)
 
 ## Methods From ML: Planning with k-item sets
 
