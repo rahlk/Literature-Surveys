@@ -1,6 +1,6 @@
 # Validating XTREE's Plans
 
-## Planning with k-item sets
+## Methods From ML: Planning with k-item sets
 
 | Year/Citations |                                            Title                                           | Methods                                                                                                  | Results                                                       | Remarks                                                                                                                                                                                                                                                                     | Data Sets                        |
 |----------------|:------------------------------------------------------------------------------------------:|----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
@@ -8,3 +8,9 @@
 | 2011/92        | Itemset Mining: a Constraint Programming Perspective                                       | Survey of +Frequent Itemset +Closed Itemset +Discriminative Itemset** +Itemset mining  with costs** | Has theorems and properties. No relevant results.             | Discriminative Itemset: Discovery of rules in data in which every transaction is labeled with a (binary) class label. The task is here  to find itemsets that allow one to discriminate the transactions belonging to one class from those belonging to  the other class. |                                  |
 | 1999/199       | Detecting Change in Categorical Data: Mining Contrast Sets                                 | +STUCCO                                                                                                 | Not directly relevant, but tiny.cc/me01                       | Surprisingly similar to XTREE! -Modeled as a tree search -Tree built by adding k-item sets to  an empty root node. -Search this tree in a breadth-first,  level-wise manner,                                                                                             | UCI Data base                    |
 | 2009/28        | An Efficient Rigorous Approach for Identifying Statistically Significant Frequent Itemsets | +Algorithm that identifies  statistically significant support threshold  for item sets.                 | +Finds thresholds with Type I/II error margin less than 0.05 | +First method to find support. (Most researchers use engg. judgement) +They use a Poisson approximation + It takes into account the entire dataset rather than  individual discoveries                                                                                    | http://fimi.cs.helsinki.fi/data/ |
+
+## Methods in SE
+
+#### 1. 
+
+![image](https://cloud.githubusercontent.com/assets/1433964/13811794/4e167ea6-eb4e-11e5-9fae-cfca1fa18ddf.png)
