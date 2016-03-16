@@ -17,6 +17,9 @@
 # Proposed Framework
 ![new doc 3](https://cloud.githubusercontent.com/assets/1433964/13814006/ec0a0b1c-eb5a-11e5-9d5f-66c6b4e86f8d.jpg)
 
+# Challenges:
+ - Finding supports, see #4 below for a solution.
+ - Baselining against other State-of-the-art methods. See #3 below.
 
 ## Methods From ML: Planning with k-item sets
 
