@@ -12,5 +12,7 @@
 ## Methods in SE
 
 #### 1. 
-
 ![image](https://cloud.githubusercontent.com/assets/1433964/13811794/4e167ea6-eb4e-11e5-9fae-cfca1fa18ddf.png)
+
+#### 2. DPRAR
+![image](https://cloud.githubusercontent.com/assets/1433964/13813601/caceaf68-eb58-11e5-8112-4e941c2beed6.png)
