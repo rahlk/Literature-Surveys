@@ -17,7 +17,7 @@
 | 2009/32 | Integrating in-process software defect prediction with association mining to discover defect pattern | +Attributes divided into two categories, top-down algorithmapply the binary partitioning recursively to a whole interval. +Association Rule Based Defect Prediction | Acc-85.71 Rec-81.82 Prec-87.10 Spec-84.62 | +Association rule mining to discover defect patterns and multi-interval discretization to handle the continuous attributes. +Works on discrete/continuous/combo | [here](http://www.sciencedirect.com.prox.lib.ncsu.edu/science/article/pii/S0164121206002603?np=y) |
 | 2014/17 | Software defect prediction using relational association rule mining | +DRAR algorithm (Discovery of Relational Association Rules) | [Fig](https://cloud.githubusercontent.com/assets/1433964/13813601/caceaf68-eb58-11e5-8112-4e941c2beed6.png) | +Assosciation rules for NASA datasets. +Readily implemetable | PROMISE |
 
-#### 1. 
+#### 1. Co-varying Software Metrics
 ![image](https://cloud.githubusercontent.com/assets/1433964/13811794/4e167ea6-eb4e-11e5-9fae-cfca1fa18ddf.png)
 
 #### 2. DPRAR
